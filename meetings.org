@@ -1,0 +1,105 @@
+* 27 August 2019
+
+** Introduction
+
+Latino Community Fund; sponsorship and support for latin community.
+
+- Civic engagement
+- advocacy
+- youth leadership (alianza program)
+- economic empowerment
+
+LiT aligns to "economic empowerment". About 900 members.
+
+Past events:
+
+- Mixers
+- LiT Hackathon
+
+Trying to build a steering committee to work on ideas for future events and
+ways to get more youth involved in tech.
+
+
+Attendees (name|organization|why LiT matters to them):
+
+- Juan | NW Hispanic Chamber of Commerce; Social Service (monitor,
+  outreach) | learn more, get connected
+- Angelica | IMDB (AMZ) | Share her resources with the community
+- Alejandro | Want(?) Mobile - IT and Security (transition to dev) | Wants
+  to help community and create opportunities to change careers
+- Carlos (Charlie) | Education / Marketing / Sales | 
+- Armando | City of Seattle; Seattle Light - technology/IT | Find
+  connection to latins he's not finding at work
+- Pedro | Geeking out Kids of Color | Empower latin community and build the
+  connections
+- Marisol | Latino Community Fund; communications | Create a place for latinos to explore a
+  career in tech and for collaboration and pursuing interest
+- Alejandra Tres | Latino Community Fund; senior strategist | Personal
+  connection to helping people connect to influence politics and how we live;
+  also her son Carlos who likes programming and videogames
+- David | Moz; PdM, Software Engineer | Establish latin connection I never
+  had; give back what I have learned; share latin community with my children
+
+** Brainstorming
+
+#+BEGIN_QUOTE
+20 years from now, what would be the newspaper headline about the impact of
+Latinos in tech?
+#+END_QUOTE
+
+- LiT expands nation wide to promote technical/digital sovereignty among
+  latino youth to foster local community solutions
+- Latinos in Tech partners with Latino Tech owners to create additional
+  social solutions to solve the world problems
+- Look at them now: the emerging generation of Latinos in Tech mentor
+  program kids
+- Homes away from home: Latinos in tech creating communities to land in as
+  latin students travel away from home to begin their education and careers
+- Latinos in Tech raises funds and becomes a huge national success story
+- Notion of a nation-wide latin in tech fraternity
+- Raw ideas
+      - "Seeing community-focused social impact"
+      - more stories about founders raisinng funds or starting businesses,
+        creating jobs and value in their communities because how they're being
+        invested in now
+
+** What do we have to do to get to those headlines?
+
+- fundraising
+- outreach and awareness
+- event programming, organizing, and community building
+- research
+      - what don't we know? do we have a list? how do we find out?
+      - how do we turn information into action?
+      - who is our target audience? what is valuable to them?
+
+** TODO Action Items [0/1]
+- [ ] Draft research plan for the following areas
+      - [ ]  Who are our audiences? And what do they care about?
+      - [ ] Researching other networks?
+      - [ ] Fundraising
+      - [ ] Partnership and outreach
+      - [ ] Interest and outreach
+      - [ ] Advocacy
+
+** Questions
+
+- Expected commitment
+      - 2-2.5 hour meeting length seems to work well
+      - Distinguish between strategic "thinking" time in-person
+      - Action or "do" time can happen ad-hoc and asynchronously
+- Capacity for remote involvement
+      - This will be necessary for members in the North and South sound area
+- Cadence, time per month
+      - Less regular than monthly is probably too infrequent
+      - Monthly or biweekly is good to start
+      - Tuesdays seem to work best for every one
+- [[https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScjd6ySXtO3EvdSnTzxyyU-srCcuiCshk6EliDzTiOTiCKsHg/viewform&sa=D&usd=2&usg=AOvVaw0ByzJl7ztNQwfGVXi1jYgu][Volunteer Form]]
+- Organizing material and notes
+      - Google Drive will probably work since LCF already has it and we all
+        seem to have Google accounts or compatible services
+      - Google Hangouts should cover remote conferencing
+
+** Next Meeting
+
+Scheduled for 17 September at 6:30
